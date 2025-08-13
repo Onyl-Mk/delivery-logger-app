@@ -53,19 +53,22 @@ This project was built as a portfolio piece to demonstrate a wide range of moder
 
 Dashboard (EN)
 
-<img width="414" height="919" alt="Screenshot 2025-08-13 220023" src="https://github.com/user-attachments/assets/62926fb7-0221-4fb5-a7ea-4a63acbe6e2e" />
-	
+
+<img width="408" height="912" alt="Screenshot 2025-08-13 225036" src="https://github.com/user-attachments/assets/95c266a6-65b4-4e10-831b-588a851630b4" />
+
 
 Deliveries (EN)
 
-<img width="413" height="913" alt="Screenshot 2025-08-13 220030" src="https://github.com/user-attachments/assets/5b9e78a1-33e8-41b5-9392-1e4cb7542818" />
-<img width="412" height="915" alt="Screenshot 2025-08-13 220038" src="https://github.com/user-attachments/assets/882c6fbd-d519-417d-8ce3-5bf5a2e1225c" />
-<img width="412" height="915" alt="Screenshot 2025-08-13 224412" src="https://github.com/user-attachments/assets/0ce5eecb-a016-431e-a675-d38b861577d6" />
+<img width="405" height="909" alt="Screenshot 2025-08-13 225216" src="https://github.com/user-attachments/assets/6d234a82-25c2-4e06-92c4-7dfb35a84787" />
+<img width="406" height="909" alt="Screenshot 2025-08-13 225235" src="https://github.com/user-attachments/assets/70ba4c8d-faee-4a33-bd3d-1bd80f55bdbd" />
+<img width="406" height="909" alt="Screenshot 2025-08-13 225307" src="https://github.com/user-attachments/assets/4bbcacaf-8f0d-4c70-865e-b32a7ee64a12" />
+
 	
 
 Details (EN)
 
-<img width="412" height="915" alt="Screenshot 2025-08-13 224342" src="https://github.com/user-attachments/assets/4ac40682-9fdc-4414-a8c7-0517efbfd7df" />
+<img width="405" height="909" alt="Screenshot 2025-08-13 225321" src="https://github.com/user-attachments/assets/2da6402e-a14a-417f-b5b4-014db6ddc3ca" />
+
 
 	
 
@@ -75,18 +78,20 @@ Details (EN)
 
 Dashboard (FR)
 
-<img width="412" height="914" alt="Screenshot 2025-08-13 215922" src="https://github.com/user-attachments/assets/6aecfb87-900e-4392-b839-966c426b7eca" />
+<img width="406" height="909" alt="Screenshot 2025-08-13 225012" src="https://github.com/user-attachments/assets/5fecf425-767d-48be-9244-c94397d7ad0f" />
 	
 
 Deliveries (FR)
 
-<img width="409" height="920" alt="Screenshot 2025-08-13 215935" src="https://github.com/user-attachments/assets/3af9931f-5e1e-4548-95c5-ae2c4a946797" />
-<img width="413" height="915" alt="Screenshot 2025-08-13 215949" src="https://github.com/user-attachments/assets/8d600520-57b8-453a-b5a4-dd0458d316e5" />
-<img width="414" height="916" alt="Screenshot 2025-08-13 220005" src="https://github.com/user-attachments/assets/ec7ed6cc-6aaf-45a7-89c2-4b6c1151d243" />
+<img width="403" height="908" alt="Screenshot 2025-08-13 225356" src="https://github.com/user-attachments/assets/ba98cf85-a6c4-4b34-9894-38b244e7f1b8" />
+<img width="405" height="906" alt="Screenshot 2025-08-13 225416" src="https://github.com/user-attachments/assets/b83eb991-0435-469e-b514-35072775aed1" />
+<img width="406" height="911" alt="Screenshot 2025-08-13 225429" src="https://github.com/user-attachments/assets/881af34e-d27c-4078-ab1a-094333c2a7db" />
+
 	
 Statistics (FR)
 
-<img width="407" height="915" alt="Screenshot 2025-08-13 220013" src="https://github.com/user-attachments/assets/aa0252a8-2035-44d1-ac65-f8a6e07cefe5" />
+<img width="407" height="911" alt="Screenshot 2025-08-13 225443" src="https://github.com/user-attachments/assets/7f82a944-f61d-4791-ba4e-d449c226d7d4" />
+
 
 
 
