@@ -1,6 +1,5 @@
 Delivery Logger - Application de Suivi Mobile
 
-    English Version: Click here to read in English
 
 📋 Table des Matières
 
@@ -52,12 +51,23 @@ Ce projet a été réalisé pour mon portfolio afin de démontrer un large éven
 📸 Captures d'écran
 
 Tableau de Bord (FR)
+
+
+<img width="406" height="909" alt="Screenshot 2025-08-13 225012" src="https://github.com/user-attachments/assets/e1d08c45-7965-415a-a567-a3ee5006d4c2" />
 	
 
 Livraisons (FR)
+
+
+<img width="403" height="908" alt="Screenshot 2025-08-13 225356" src="https://github.com/user-attachments/assets/9466e538-03fa-4219-8d97-b5ff537c6a65" />
+<img width="405" height="906" alt="Screenshot 2025-08-13 225416" src="https://github.com/user-attachments/assets/0ae0870f-4318-412c-9e1d-19823440ffc8" />
+<img width="406" height="911" alt="Screenshot 2025-08-13 225429" src="https://github.com/user-attachments/assets/9a3e856d-fbf1-43de-938f-9229c21344dc" />
 	
 
 Détails (FR)
+
+
+<img width="407" height="911" alt="Screenshot 2025-08-13 225443" src="https://github.com/user-attachments/assets/92e43924-6044-490c-8fcb-6e110ad7bce0" />
 
 
 	
@@ -67,13 +77,23 @@ Détails (FR)
 
 
 Tableau de Bord (EN)
+
+
+<img width="408" height="912" alt="Screenshot 2025-08-13 225036" src="https://github.com/user-attachments/assets/6f48efef-18b0-42e3-aaec-5a1e493281b2" />
 	
 
 Livraisons (EN)
-	
+
+
+<img width="405" height="909" alt="Screenshot 2025-08-13 225216" src="https://github.com/user-attachments/assets/892ed0b7-dbc9-4122-aa79-af9f998b0753" />
+<img width="406" height="909" alt="Screenshot 2025-08-13 225235" src="https://github.com/user-attachments/assets/8e1c15cb-86ab-4cd1-a8ab-1fa4222d367a" />
+<img width="406" height="909" alt="Screenshot 2025-08-13 225307" src="https://github.com/user-attachments/assets/caa01b64-9e41-4f37-8907-766fd89481f3" />
+
 
 Statistiques (FR)
 
+
+<img width="405" height="909" alt="Screenshot 2025-08-13 225321" src="https://github.com/user-attachments/assets/99f9cbd4-fedf-495d-94d3-2f9181ea6ccc" />
 
 	
 
