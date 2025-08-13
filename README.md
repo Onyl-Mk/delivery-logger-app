@@ -1,9 +1,5 @@
 Delivery Logger - Mobile Tracking App
 
-    Suggestion: Record a short GIF of you using the app and save it as app-demo.gif in the assets folder.
-
-    Version Française : Cliquez ici pour lire en français
-
 📋 Table of Contents
 
     Description
@@ -56,13 +52,20 @@ This project was built as a portfolio piece to demonstrate a wide range of moder
 📸 Screenshots
 
 Dashboard (EN)
+
+<img width="414" height="919" alt="Screenshot 2025-08-13 220023" src="https://github.com/user-attachments/assets/62926fb7-0221-4fb5-a7ea-4a63acbe6e2e" />
 	
 
 Deliveries (EN)
+
+<img width="413" height="913" alt="Screenshot 2025-08-13 220030" src="https://github.com/user-attachments/assets/5b9e78a1-33e8-41b5-9392-1e4cb7542818" />
+<img width="412" height="915" alt="Screenshot 2025-08-13 220038" src="https://github.com/user-attachments/assets/882c6fbd-d519-417d-8ce3-5bf5a2e1225c" />
+<img width="412" height="915" alt="Screenshot 2025-08-13 224412" src="https://github.com/user-attachments/assets/0ce5eecb-a016-431e-a675-d38b861577d6" />
 	
 
 Details (EN)
 
+<img width="412" height="915" alt="Screenshot 2025-08-13 224342" src="https://github.com/user-attachments/assets/4ac40682-9fdc-4414-a8c7-0517efbfd7df" />
 
 	
 
@@ -71,12 +74,20 @@ Details (EN)
 
 
 Dashboard (FR)
+
+<img width="412" height="914" alt="Screenshot 2025-08-13 215922" src="https://github.com/user-attachments/assets/6aecfb87-900e-4392-b839-966c426b7eca" />
 	
 
 Deliveries (FR)
-	
 
+<img width="409" height="920" alt="Screenshot 2025-08-13 215935" src="https://github.com/user-attachments/assets/3af9931f-5e1e-4548-95c5-ae2c4a946797" />
+<img width="413" height="915" alt="Screenshot 2025-08-13 215949" src="https://github.com/user-attachments/assets/8d600520-57b8-453a-b5a4-dd0458d316e5" />
+<img width="414" height="916" alt="Screenshot 2025-08-13 220005" src="https://github.com/user-attachments/assets/ec7ed6cc-6aaf-45a7-89c2-4b6c1151d243" />
+	
 Statistics (FR)
+
+<img width="407" height="915" alt="Screenshot 2025-08-13 220013" src="https://github.com/user-attachments/assets/aa0252a8-2035-44d1-ac65-f8a6e07cefe5" />
+
 
 
 	
