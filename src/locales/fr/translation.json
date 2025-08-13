@@ -1,0 +1,93 @@
+{
+  "tabs": {
+    "dashboard": "Accueil",
+    "deliveries": "Livraisons",
+    "add": "Ajouter",
+    "stats": "Statistiques"
+  },
+  "dashboard": {
+    "title": "Tableau de Bord",
+    "totalDeliveries": "Livraisons Totales",
+    "delivered": "Livré",
+    "statusOverview": "Aperçu des Statuts",
+    "pending": "En attente",
+    "inTransit": "En transit",
+    "viewAll": "Voir toutes les livraisons",
+    "performance": "Performance",
+    "successRate": "Taux de réussite",
+    "attentionNeeded": "Action Requise",
+    "urgentDeliveries": "Livraisons Urgentes",
+    "urgentSubtitle": "Nécessite une attention immédiate",
+    "highPriority": "Haute Priorité",
+    "highSubtitle": "Livraisons importantes"
+  },
+  "deliveriesScreen": {
+    "title": "Livraisons",
+    "searchPlaceholder": "Rechercher par destinataire ou n° de suivi",
+    "showingResults": "Affichage de {{count}} résultats",
+    "noResults": "Aucune livraison ne correspond à votre recherche."
+  },
+  "detailsScreen": {
+    "title": "Détails de la Livraison",
+    "trackingHeader": "Suivi n° : {{trackingNumber}}",
+    "recipient": "Destinataire",
+    "status": "Statut Actuel",
+    "priority": "Priorité",
+    "updateHeader": "Mettre à jour le statut",
+    "markAs": "Marquer comme {{status}}",
+    "notFound": "Livraison non trouvée.",
+    "deleteDelivery": "Supprimer la Livraison",
+    "deleteTitle": "Supprimer la Livraison",
+    "deleteMessage": "Êtes-vous sûr de vouloir supprimer définitivement cette livraison ?"
+  },
+  "addScreen": {
+    "title": "Nouvelle Livraison",
+    "trackingInfo": "Infos de Suivi",
+    "trackingNumber": "Numéro de Suivi *",
+    "priority": "Priorité",
+    "recipientInfo": "Infos du Destinataire",
+    "recipientName": "Nom du Destinataire *",
+    "address": "Adresse de Livraison *",
+    "next": "Suivant",
+    "back": "Retour",
+    "save": "Enregistrer la Livraison",
+    "required": "Champs obligatoires"
+  },
+  "statsScreen": {
+    "title": "Statistiques",
+    "total": "Livraisons Totales",
+    "pending": "En attente",
+    "inTransit": "En transit",
+    "delivered": "Livré",
+    "failed": "Échoué",
+    "breakdown": "Répartition des Livraisons"
+  },
+  "status": {
+    "Pending": "En attente",
+    "In Transit": "En transit",
+    "Delivered": "Livré",
+    "Failed": "Échoué"
+  },
+  "priority": {
+    "Low": "Basse",
+    "Medium": "Moyenne",
+    "High": "Haute",
+    "Urgent": "Urgente"
+  },
+  "common": {
+    "delete": "Supprimer",
+    "cancel": "Annuler"
+  },
+  
+  "filters": {
+    "Total": "Total",
+    "Pending": "En attente",
+    "In Transit": "En transit",
+    "Delivered": "Livré",
+    "Cancelled": "Annulé",
+    "Urgent": "Urgent",
+    "High": "Importante"
+  }
+}
+
+

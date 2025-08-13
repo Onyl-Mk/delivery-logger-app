@@ -1,0 +1,94 @@
+{
+  "tabs": {
+    "dashboard": "Dashboard",
+    "deliveries": "Deliveries",
+    "add": "Add Delivery",
+    "stats": "Statistics"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "totalDeliveries": "Total Deliveries",
+    "delivered": "Delivered",
+    "statusOverview": "Status Overview",
+    "pending": "Pending",
+    "inTransit": "In Transit",
+    "viewAll": "View All Deliveries",
+    "performance": "Performance",
+    "successRate": "Success Rate",
+    "attentionNeeded": "Attention Needed",
+    "urgentDeliveries": "Urgent Deliveries",
+    "urgentSubtitle": "Require immediate attention",
+    "highPriority": "High Priority",
+    "highSubtitle": "Important deliveries"
+  },
+  "deliveriesScreen": {
+    "title": "Deliveries",
+    "searchPlaceholder": "Search by recipient or tracking #",
+    "showingResults": "Showing {{count}} results",
+    "noResults": "No deliveries match your search."
+  },
+  "detailsScreen": {
+    "title": "Delivery Details",
+    "trackingHeader": "Tracking #: {{trackingNumber}}",
+    "recipient": "Recipient",
+    "status": "Current Status",
+    "priority": "Priority",
+    "updateHeader": "Update Status",
+    "markAs": "Mark as {{status}}",
+    "notFound": "Delivery not found.",
+    "deleteDelivery": "Delete Delivery",
+    "deleteTitle": "Delete Delivery",
+    "deleteMessage": "Are you sure you want to permanently delete this delivery?"
+  },
+  "addScreen": {
+    "title": "New Delivery",
+    "trackingInfo": "Tracking Info",
+    "trackingNumber": "Tracking Number *",
+    "priority": "Priority",
+    "recipientInfo": "Recipient Info",
+    "recipientName": "Recipient Name *",
+    "address": "Delivery Address *",
+    "next": "Next",
+    "back": "Back",
+    "save": "Save Delivery",
+    "required": "Required fields"
+  },
+  "statsScreen": {
+    "title": "Statistics",
+    "total": "Total Deliveries",
+    "pending": "Pending",
+    "inTransit": "In Transit",
+    "delivered": "Delivered",
+    "failed": "Failed",
+    "breakdown": "Deliveries Breakdown"
+  },
+  "status": {
+    "Pending": "Pending",
+    "In Transit": "In Transit",
+    "Delivered": "Delivered",
+    "Failed": "Failed"
+  },
+  "priority": {
+    "Low": "Low",
+    "Medium": "Medium",
+    "High": "High",
+    "Urgent": "Urgent"
+  },
+ 
+  "common": {
+    "delete": "Delete",
+    "cancel": "Cancel"
+  },
+  "filters": {
+    "Total": "Total",
+    "Pending": "Pending",
+    "In Transit": "In Transit",
+    "Delivered": "Delivered",
+    "Cancelled": "Cancelled",
+    "Urgent": "Urgent",
+    "High": "High"
+  }
+}
+
+
+
