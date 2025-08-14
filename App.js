@@ -1,8 +1,8 @@
 import './src/i18n'
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import AppNavigator from './src/navigation/AppNavigator'; // Adjust the import path as necessary
-import { DeliveriesProvider } from './src/services/DeliveriesContext'; // Import your context provider
+import AppNavigator from './src/navigation/AppNavigator'; 
+import { DeliveriesProvider } from './src/services/DeliveriesContext'; 
 
 export default function App() {
   return (
