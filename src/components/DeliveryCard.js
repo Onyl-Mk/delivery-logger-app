@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
     marginTop: 5,
   },
   status: {
-    color: '#facc15', // Default color for 'Pending'
+    color: '#facc15',
     fontSize: 14,
     fontWeight: 'bold',
   },
