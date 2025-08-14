@@ -8,7 +8,7 @@ import { useTranslation } from 'react-i18next';
 
 const Card = ({ children, style }) => <View style={[styles.card, style]}>{children}</View>;
 
-// You can define these simple components right in the file
+
 const SummaryCard = ({ title, value, color, icon, style }) => (
   <View style={[styles.summaryCard, { backgroundColor: color }, style]}>
     <View>
@@ -33,7 +33,7 @@ export default function DashboardScreen({ navigation }) {
 
   const { deliveries } = useDeliveries()
   const { t, i18n } = useTranslation();
-  // In the future, this data will come from your deliveries list
+ 
   const stats = useMemo (() => {
 
     const total = deliveries.length;
