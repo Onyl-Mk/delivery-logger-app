@@ -1,6 +1,4 @@
-// src/screens/Deliveries.js
-
-import React, { useState, useMemo, useEffect } from 'react'; // NOTE: We no longer need useEffect or useState here
+import React, { useState, useMemo, useEffect } from 'react';
 import { View, Text, StyleSheet, SafeAreaView, TouchableOpacity, TextInput, ScrollView } from 'react-native';
 import { useDeliveries } from '../services/DeliveriesContext'; 
 import DeliveryCard from '../components/DeliveryCard';
