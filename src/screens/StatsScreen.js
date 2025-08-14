@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react';
 import { View, Text, StyleSheet, ScrollView, SafeAreaView } from 'react-native';
-import { useDeliveries } from '../services/DeliveriesContext'; // Or your context path
+import { useDeliveries } from '../services/DeliveriesContext';
 import { MainStyles } from '../styles/styles';
 import { useTranslation } from 'react-i18next';
 
@@ -49,7 +49,6 @@ const CustomBarChart = ({ data }) => {
 };
 
 
-// --- Main Screen Component ---
 export default function StatsScreen() {
     const { deliveries } = useDeliveries();
     const { t } = useTranslation();
