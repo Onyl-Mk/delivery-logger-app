@@ -6,18 +6,18 @@ import { MainStyles } from '../styles/styles'; // Make sure this path is correct
 export default function DeliveryCard({ delivery }) {
   const navigation = useNavigation();
 
-  // This function navigates to the details screen when the card is pressed
+  
   const handlePress = () => {
     navigation.navigate('DeliveryDetails', { deliveryId: delivery.id });
   };
 
-  // Ensure delivery object exists before trying to render
+ 
   if (!delivery) {
     return null; 
   }
 
   return (
-    // This TouchableOpacity makes the whole card tappable
+    
     <TouchableOpacity onPress={handlePress} style={styles.card}>
       {/* This is the content that was missing */}
       <View>
