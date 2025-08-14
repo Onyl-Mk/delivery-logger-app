@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
-import { MainStyles } from '../styles/styles'; // Make sure this path is correct
+import { MainStyles } from '../styles/styles';
 
 export default function DeliveryCard({ delivery }) {
   const navigation = useNavigation();
@@ -19,7 +19,7 @@ export default function DeliveryCard({ delivery }) {
   return (
     
     <TouchableOpacity onPress={handlePress} style={styles.card}>
-      {/* This is the content that was missing */}
+      
       <View>
         <Text style={styles.trackingNumber}>{delivery.trackingNumber || 'No Tracking #'}</Text>
         <Text style={styles.recipient}>Recipient: {delivery.recipient || 'N/A'}</Text>
