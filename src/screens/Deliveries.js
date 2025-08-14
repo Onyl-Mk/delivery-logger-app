@@ -97,7 +97,6 @@ export default function Deliveries({ route }) {
       <View style={styles.listContainer}>
         <Text style={styles.listHeaderText}>{t('deliveriesScreen.showingResults', { count: filteredDeliveries.length })}</Text>
       <FlashList
-        // The data prop is now correctly bound to the live context state
         data={filteredDeliveries}
         keyExtractor={(item) => item.id}
         renderItem={({ item }) => <DeliveryCard delivery={item} />}
